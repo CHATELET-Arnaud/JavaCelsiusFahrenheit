@@ -1,6 +1,9 @@
 package projet1;
 
+import java.util.Arrays;
 import java.util.Scanner;
+
+import com.openclassrooms.ideinstall.List;
 
 public class CelsiusFahrenheit {
 	/**
@@ -28,6 +31,10 @@ public class CelsiusFahrenheit {
 		}
 		System.out.println("Au revoir...");*/
 
+/*		List<String> input = Arrays.asList("F", "G", "F", "B", "F", "G", "F", "G", "H");
+		Map<Integer, Integer> map = new HashMap<>();
+		map.contain*/
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("CONVERTISSEUR DEGRÉS CELSIUS ET DEGRÉS FAHRENHEIT");
