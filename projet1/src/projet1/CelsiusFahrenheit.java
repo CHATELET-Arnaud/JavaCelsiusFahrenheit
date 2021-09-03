@@ -33,7 +33,7 @@ public class CelsiusFahrenheit {
 
 /*		List<String> input = Arrays.asList("F", "G", "F", "B", "F", "G", "F", "G", "H");
 		Map<Integer, Integer> map = new HashMap<>();
-		map.contain*/
+		map.contain  */
 		
 		Scanner sc = new Scanner(System.in);
 		
